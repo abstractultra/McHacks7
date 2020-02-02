@@ -1,4 +1,4 @@
-package com.docinpoc.dcpk
+package com.docinpoc.docinpoc
 
 import org.junit.Test
 

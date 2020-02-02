@@ -1,4 +1,4 @@
-package com.docinpoc.dcpk
+package com.docinpoc.docinpoc
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
